@@ -1,0 +1,4 @@
+1 List : we will use list so that we can use any index for the free prize.
+2 Set : As the names should not be repeated.
+3 Map : we can count the most number of times occuring first name.
+4 Queue : To add remove people from lists who got or did not get tickets. 
